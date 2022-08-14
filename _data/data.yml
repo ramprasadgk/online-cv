@@ -45,12 +45,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Customer focused, value driven , technical, seasoned DevOps Transformation Specialist,Coach ,
-      Consultant and Leader . Have worked on complex highly scalable bespoke DevOps solutions. Certified
-      Kubernetes administrator with experience working on multi-cloud container projects .
-      Have led product teams on DevOps implementation for complex products by Focusing on mindset
-      change , technical practices and with great believe in cross functional , self organizing teams..
-education:
+      Hands-on technology leader in Devops with over 15 years of experience and proven track record. 
+      Thoroughly understnd and master Devops Culture and capabilities
+      I help teams to design, build, and massively scale their environments. 
+      Started off my career as UI developer, than as platform engineer and perfomrmance engineer
+      I am passionate about solving complex problems and getting organizations to transform to 
+      cloud native and container models with full automation and infrastructure as code. 
+
+      Some of the tools and technologies that I have worked with:
+      Scripting/Programming: Perl ,java, Python, Bash
+      App supported languages:  Python, Java, Javascript
+      Cloud Environments: AWS, Azure, Google
+      Containerization: Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
+      OS: Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
+      CI/CD: Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
+      Config Mgt / Desired State Config: Ansible
+      Orchestration / Infrastructure as Code: Terraform, CloudFormation, Boto3, Kubernetes
+      Source code control: Git, Github, bitbucket
+      Observability & Logging: grafana influxdb telegram collectd 
+      Monitoring, App Performance & Alerting: Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
+      Issue Tracking: JIRA, Confluence, ServiceNow
+      
     - degree: BE in COmputer science
       university: Visveswaraiaha Technological University
       time: 2000 - 2004
@@ -98,61 +113,22 @@ experiences:
       time: 2014 - 2019
       company: Oracle India Pvt Ltd, Bengaluru, Karnataka
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        About the Product : Oracle Management Cloud is a suite of management
+        services that eliminate the human effort associated with traditional solutions for
+        monitoring, managing and securing applications and infrastructure
+        ROLE:, RESPONSIBILITIES: As a DevOps engineer and lead ,roles and
+        responsibilities included setting up remote code repository , managing artifacts,
+        setting up Jenkins job , configuring ansible to deploy artifacts onto test bed.
+        Provisioning machines for test and development, Led a Part of DevOps team
+        which created and maintained fully automated CI/CD pipelines for code
+        deployment using Jenkins on AWS cloud.
+        ACHIEVEMENTS: - Commissioned new git workflow strategy across the entire
+        product team of over 30 different teams - Delivered an elegant solution of mutli
+        branch Jenkins pipeline with libraries to streamline and ease the CI automation -
+        Introduced Ansible as a configuration management tool which enabled teams
+        to create Ansible playbooks to manage IaaS , for deployment etc.
+        Dockerized the JAVA postgress SQL components of a microservices project -
+        Used Kubernetes to provision the JAVA app 5.
 
 skills:
     title: Skills &amp; Proficiency
