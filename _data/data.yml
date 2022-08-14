@@ -73,16 +73,30 @@ experiences:
       time: 2019 - 2020
       company: ThoughtFocus, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Led the DevOps center of excellence effort at ThoughtFocus in building a wide
+        array of DevOps solutions offerings.
+        It included all major DevOps players from AWS ,AZURE to Atlassian/opensource
+        solutions.
+        Worked on various client facing projects with diverse tech stack and complex
+        team and project structure providing DevOps and cloud migration solutions
+        Solutions include end to end DevOps implementation, advisory services, cloud
+        migration and other activities Have setup DevOps teams and help them to
+        improve their knowledge and professional growth
+        Created POC and leveraged new and latest technologies in DevOps solutions
+        space
+        ACHIEVEMENTS: - Closely working with Various clients and Product owners
+        Internally within the org and external projects to deliver DevOps Solutions
+        Was extremely diligent and efficient in gathering requirement, strategizing
+        delivery requirements through JIRA /AZURE agile sprints, release plans and
+        delivery within deadlines - Developed pipeline for Continuous Integration and
+        Blue-Green deployment allowing early test, code scan which resulted in
+        reduction of deployment effort by over 40%
+        Worked on wide variety of cloud infrastructure and DevOps tools from Atlassian
+        ,AWS DevOps to Azure DevOps services - Able to win 2 new clients for the
+        DevOps Center of Excellence team .          
+    - role: Devops Lead
+      time: 2014 - 2019
+      company: Oracle India Pvt Ltd, Bengaluru, Karnataka
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
