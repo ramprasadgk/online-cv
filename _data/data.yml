@@ -53,19 +53,19 @@ career-profile:
       cloud native and container models with full automation and infrastructure as code. 
 
       Some of the tools and technologies that I have worked with:
-      Scripting/Programming: Perl ,java, Python, Bash
-      App supported languages:  Python, Java, Javascript
-      Cloud Environments: AWS, Azure, Google
-      Containerization: Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
-      OS: Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
-      CI/CD: Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
-      Config Mgt / Desired State Config: Ansible
-      Orchestration / Infrastructure as Code: Terraform, CloudFormation, Boto3, Kubernetes
-      Source code control: Git, Github, bitbucket
-      Observability & Logging: grafana influxdb telegram collectd 
-      Monitoring, App Performance & Alerting: Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
-      Issue Tracking: JIRA, Confluence, ServiceNow
-      
+      Scripting/Programming Perl ,java, Python, Bash
+      App supported languages   Python, Java, Javascript
+      Cloud Environments AWS, Azure, Google
+      Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
+      OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
+      CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
+      Config Mgt / Desired State Config Ansible
+      Orchestration / Infrastructure as Code Terraform, CloudFormation, Boto3, Kubernetes
+      Source code control Git, Github, bitbucket
+      Observability & Logging grafana influxdb telegram collectd 
+      Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
+      Issue Tracking JIRA, Confluence, ServiceNow
+
     - degree: BE in COmputer science
       university: Visveswaraiaha Technological University
       time: 2000 - 2004
