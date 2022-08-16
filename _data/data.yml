@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ram Prasad
-    tagline: DevOps ,Technology Lead Architect and specialist
+    tagline: DevOps Leader ,Architect and specialist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,18 +57,18 @@ career-profile:
 
       Some of the tools and technologies that I have worked with
 
-      Scripting/Programming Perl ,java, Python, Bash
-      App supported languages   Python, Java, Javascript
-      Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
-      Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
-      OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
-      CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
-      Config Mgt / Desired State Config Ansible
-      Orchestration / Infrastructure as Code Terraform, CloudFormation, Boto3, Kubernetes
-      Source code control Git, Github, bitbucket
-      Observability & Logging grafana influxdb telegram collectd 
-      Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
-      Issue Tracking JIRA, Confluence, ServiceNow
+        - Scripting/Programming Perl ,java, Python, Bash
+        - App supported languages   Python, Java, Javascript
+        - Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
+        - Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
+        - OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
+        - CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
+        - Config Mgt / Desired State Config Ansible
+        - Orchestration / Infrastructure as Code Terraform, CloudFormation, Boto3, Kubernetes
+        - Source code control Git, Github, bitbucket
+        - Observability & Logging grafana influxdb telegram collectd 
+        - Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
+        - Issue Tracking JIRA, Confluence, ServiceNow
 
 education:
     - degree: BE in COmputer science
@@ -79,61 +79,116 @@ education:
           - Bullet point
           - Bullet point  
 experiences:
-    - role: DevOps Specialist
+    - role: DevOps Specialist 
       time: 2020 - Present
       company: IBM Bangalore
       details: |
-        As a Coach have helped IBM CIO teams on the mindset shift required for high
-        performing DevOps team. Helped teams to raise awareness around different
-        DevOps capabilities .
+        Working with Developer teams and leadership in IBM CIO org to engineer the devops capalibilities into
+        developr workflows. Helping teams in writing secure software. Helping org to build centralized CICD ,
+        security ,quality toolings into the DevOps landscape.
+
+        Leadership coaching on building high performache teams accross the org which has around 6000 apps and several hundred leaders.
+        
         As a Transformation specialist , have worked with teams on value based
         transformation, process change, setting up CI/CD pipelines, Kubernetes
         configurations, cloud native app migrations etc.
+
     - role: DevOps Manager
       time: 2019 - 2020
       company: ThoughtFocus, Bangalore
       details: |
         Led the DevOps center of excellence effort at ThoughtFocus in building a wide
         array of DevOps solutions offerings.
+
         It included all major DevOps players from AWS ,AZURE to Atlassian/opensource
         solutions.
+
         Worked on various client facing projects with diverse tech stack and complex
         team and project structure providing DevOps and cloud migration solutions
+
         Solutions include end to end DevOps implementation, advisory services, cloud
         migration and other activities Have setup DevOps teams and help them to
         improve their knowledge and professional growth
-        Created POC and leveraged new and latest technologies in DevOps solutions
-        space
-        ACHIEVEMENTS: - Closely working with Various clients and Product owners
-        Internally within the org and external projects to deliver DevOps Solutions
-        Was extremely diligent and efficient in gathering requirement, strategizing
-        delivery requirements through JIRA /AZURE agile sprints, release plans and
-        delivery within deadlines - Developed pipeline for Continuous Integration and
-        Blue-Green deployment allowing early test, code scan which resulted in
-        reduction of deployment effort by over 40%
-        Worked on wide variety of cloud infrastructure and DevOps tools from Atlassian
-        ,AWS DevOps to Azure DevOps services - Able to win 2 new clients for the
-        DevOps Center of Excellence team .          
-    - role: Devops Lead
+
+          -  ACHIEVEMENTS: 
+
+             Closely working with Various clients and Product owners
+             Internally within the org and external projects to deliver DevOps Solutions
+             Was extremely diligent and efficient in gathering requirement, strategizing
+             delivery requirements through JIRA /AZURE agile sprints, release plans and
+             delivery within deadlines 
+             
+             Developed pipeline for Continuous Integration and
+             Blue-Green deployment allowing early test, code scan which resulted in
+             reduction of deployment effort by over 40%
+             
+             Worked on wide variety of cloud infrastructure and DevOps tools from Atlassian
+             ,AWS DevOps to Azure DevOps services - Able to win 2 new clients for the
+              DevOps Center of Excellence team .          
+    - role: Lead Architect-DevOps
       time: 2014 - 2019
       company: Oracle India Pvt Ltd, Bengaluru, Karnataka
       details: |
         About the Product : Oracle Management Cloud is a suite of management
         services that eliminate the human effort associated with traditional solutions for
         monitoring, managing and securing applications and infrastructure
-        ROLE:, RESPONSIBILITIES: As a DevOps engineer and lead ,roles and
-        responsibilities included setting up remote code repository , managing artifacts,
-        setting up Jenkins job , configuring ansible to deploy artifacts onto test bed.
-        Provisioning machines for test and development, Led a Part of DevOps team
-        which created and maintained fully automated CI/CD pipelines for code
-        deployment using Jenkins on AWS cloud.
-        ACHIEVEMENTS: - Commissioned new git workflow strategy across the entire
-        product team of over 30 different teams - Delivered an elegant solution of mutli
-        branch Jenkins pipeline with libraries to streamline and ease the CI automation -
-        Introduced Ansible as a configuration management tool which enabled teams
-        to create Ansible playbooks to manage IaaS , for deployment etc.
-        Dockerized the JAVA postgress SQL components of a microservices project -
-        Used Kubernetes to provision the JAVA app 5.
+        
+          -   RESPONSIBILITIES: As a DevOps engineer and lead ,roles and
+              responsibilities included setting up remote code repository , managing artifacts,
+              setting up Jenkins job , configuring ansible to deploy artifacts onto test bed.
+              Provisioning machines for test and development, Led a Part of DevOps team
+              which created and maintained fully automated CI/CD pipelines for code
+              deployment using Jenkins on AWS cloud.
+
+          -   ACHIEVEMENTS: - Commissioned new git workflow strategy across the entire
+              product team of over 30 different teams - Delivered an elegant solution of mutli
+              branch Jenkins pipeline with libraries to streamline and ease the CI automation -
+              Introduced Ansible as a configuration management tool which enabled teams
+              to create Ansible playbooks to manage IaaS , for deployment etc.
+              Dockerized the JAVA postgress SQL components of a microservices project -
+              Used Kubernetes to provision the JAVA app 5.
+
+    - role: Infrastructure Engineer 
+      time: 2012 - 2014
+      company: Oracle India Pvt Ltd, Bengaluru, Karnataka
+      details: |
+        Worked on a very dynamic role where the responsibilities included working with
+        developers, large test teams,performance engineering teams to help build
+        automation infrastructure. This was to help ease developer workflow and Test
+        automation. to help teams scale their performance testing
+
+    - role: Platform/Performance Engineer 
+      time: 2009 - 2012
+      company: EMC2, Hopkinton, Massachusetts,USA
+      details: |
+        TEAM (ONSHORE -USA 3 YEARS), As part of Platform tools team, was responsible
+        for writing automation tools to perform health checks on EMC2 san products.
+        Used perl and shell scripting to automate the product tools As a developer in
+        the tools team , I was involved in analyzing, designing, developing health check
+        took for symmetrix product of EMC2
+          -  ACHIEVEMENTS: - Improved the health check tool run time by reducing it to over
+             30% 6 - Delivered excellent reporting tool for health check metrics using perl.
+
+    - role: UI Developer
+      time: 2005 - 2009
+      company: Tata Consultancy Services, Chennai, TN
+      details: |
+          About Project:AXA Insurance services is UK based company.
+          Project was about insurance agent underwriting website development.
+          As a fronted UI developer worked on building website for AXA UK insurance
+          company for the underwriters.
+          Used javascript, HTML, CSS and JAVA to design and develop the frontend.
+          ACHIEVEMENTS: - Delivered JavaScript validation scripts on time with high
+          quality.
+          Appreciated by clients
+    - role: Soft Skills Training
+      time: 2005
+      company: Tata Consultancy Services, CoimbCoimbattore, TN
+      details: |
+        Had undergone TCS training for new joiners in Coimbatore, there I was trained
+        on soft skills spoken English and other areas The training was in Coimbatore for a
+        period of about 3 months.
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -147,6 +202,22 @@ skills:
 
       - name: Automation
         level: 98%
+      
+      - name: AWS
+        level: 70%
+      
+      - name: Linux
+        level: 80%
+
+      - name: Terraform
+        level: 80%
+      
+      - name: Leadership
+        level: 70%
+      
+      - name: Jenkins,Travis,CI/CD
+        level: 84%
+
 
 
 
