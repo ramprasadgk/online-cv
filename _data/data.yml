@@ -47,15 +47,19 @@ career-profile:
     summary: |
       Hands-on technology leader in Devops with over 15 years of experience and proven track record. 
       Thoroughly understnd and master Devops Culture and capabilities
+
       I help teams to design, build, and massively scale their environments. 
-      Started off my career as UI developer, than as platform engineer and perfomrmance engineer
+      Started off my career as UI developer, than as platform engineer and perfomrmance engineer.
+      DevOps journey started with a microservices  saas offeing on oracle cloud.
+
       I am passionate about solving complex problems and getting organizations to transform to 
       cloud native and container models with full automation and infrastructure as code. 
 
       Some of the tools and technologies that I have worked with
+
       Scripting/Programming Perl ,java, Python, Bash
       App supported languages   Python, Java, Javascript
-      Cloud Environments AWS, Azure, Google
+      Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
       Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
       OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
       CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
@@ -66,6 +70,7 @@ career-profile:
       Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
       Issue Tracking JIRA, Confluence, ServiceNow
 
+education:
     - degree: BE in COmputer science
       university: Visveswaraiaha Technological University
       time: 2000 - 2004
