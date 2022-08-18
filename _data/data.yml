@@ -45,30 +45,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hands-on technology leader in Devops with over 15 years of experience and proven track record. 
-      Thoroughly understnd and master Devops Culture and capabilities
+        Hands-on technology leader in DevOps with over 15 years of experience and proven track record. 
 
-      I help teams to design, build, and massively scale their environments. 
-      Started off my career as UI developer, than as platform engineer and perfomrmance engineer.
-      DevOps journey started with a microservices  saas offeing on oracle cloud.
+        Thoroughly understand and master DevOps Culture and capabilities
 
-      I am passionate about solving complex problems and getting organizations to transform to 
-      cloud native and container models with full automation and infrastructure as code. 
+        I help teams to design, build, and massively scale their environments. 
 
-      Some of the tools and technologies that I have worked with
+        Started off my career as UI developer, than as platform engineer and performance engineer. DevOps journey started with a microservices saas offering on oracle cloud.
 
-        - Scripting/Programming Perl ,java, Python, Bash
-        - App supported languages   Python, Java, Javascript
-        - Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
-        - Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
-        - OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server 
-        - CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
-        - Config Mgt / Desired State Config Ansible
-        - Orchestration / Infrastructure as Code Terraform, CloudFormation, Boto3, Kubernetes
-        - Source code control Git, Github, bitbucket
-        - Observability & Logging grafana influxdb telegram collectd 
-        - Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
-        - Issue Tracking JIRA, Confluence, ServiceNow
+        I am passionate about solving complex problems and getting organizations to transform to cloud native and container models with full automation and infrastructure as code.
+
+        Some of the tools and technologies that I have worked with
+
+        Scripting/Programming Perl ,java, Python, Bash
+        App supported languages Python, Java, Javascript
+        Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
+        Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
+        OS Linux (Ubuntu, Redhat), Solaris, HPUX, Windows Server
+        CI/CD Bamboo, Jenkins, Travis, Tekton ,Azure Pipelines
+        Config Mgt / Desired State Config Ansible
+        Orchestration / Infrastructure as Code Terraform, CloudFormation, Boto3, Kubernetes
+        Source code control Git, Github, bitbucket
+        Observability & Logging grafana influxdb telegram collectd
+        Monitoring, App Performance & Alerting Cloudwatch, ELK, NewRelic,PagerDuty,Dynatrace
+        Issue Tracking JIRA, Confluence, ServiceNow
+
 
 education:
     - degree: BE in COmputer science
@@ -83,15 +84,14 @@ experiences:
       time: 2020 - Present
       company: IBM Bangalore
       details: |
-        Working with Developer teams and leadership in IBM CIO org to engineer the devops capalibilities into
-        developr workflows. Helping teams in writing secure software. Helping org to build centralized CICD ,
-        security ,quality toolings into the DevOps landscape.
+         
+          Working with Developer teams and leadership in IBM CIO org to engineer the devops capabilities into developer workflows. 
 
-        Leadership coaching on building high performache teams accross the org which has around 6000 apps and several hundred leaders.
-        
-        As a Transformation specialist , have worked with teams on value based
-        transformation, process change, setting up CI/CD pipelines, Kubernetes
-        configurations, cloud native app migrations etc.
+          Helping teams in writing secure software. Helping org to build centralized CICD , security ,quality tooling into the DevOps landscape.
+
+          Leadership coaching on building high performance teams across the org which has around 6000 apps and several hundred leaders.
+
+          As a Transformation specialist , have worked with teams on value based transformation, process change, setting up CI/CD pipelines, Kubernetes configurations, cloud native app migrations etc.
 
     - role: DevOps Manager
       time: 2019 - 2020
@@ -163,7 +163,7 @@ experiences:
       details: |
         TEAM (ONSHORE -USA 3 YEARS), As part of Platform tools team, was responsible
         for writing automation tools to perform health checks on EMC2 san products.
-        Used perl and shell scripting to automate the product tools As a developer in
+        Used perl and shell scripting extensively to automate the product tools As a developer in
         the tools team , I was involved in analyzing, designing, developing health check
         took for symmetrix product of EMC2
           -  ACHIEVEMENTS: - Improved the health check tool run time by reducing it to over
@@ -197,6 +197,12 @@ skills:
       - name: Kubernetes and Containers
         level: 98%
 
+      - name: Cloud
+        level: 60%
+      
+      - name: Network and Security
+        level: 70%
+
       - name: Python
         level: 98%
 
@@ -215,6 +221,12 @@ skills:
       - name: Leadership
         level: 70%
       
+      - name: DevOps transformation
+        level: 70%
+
+      - name: DevOps Coach
+        level: 85%
+
       - name: Jenkins,Travis,CI/CD
         level: 84%
 
