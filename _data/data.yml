@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ram Prasad
-    tagline: DevOps Leader ,Architect and specialist
+    tagline: Technology Leader in DevOps Cloud and AI
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,19 +45,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Hands-on technology leader in DevOps with over 15 years of experience and proven track record. 
-
-        Thoroughly understand and master DevOps Culture and capabilities
-
-        I help teams to design, build, and massively scale their environments. 
-
-        Started off my career as UI developer, than as platform engineer and performance engineer. DevOps journey started with a microservices saas offering on oracle cloud.
-
-        I am passionate about solving complex problems and getting organizations to transform to cloud native and container models with full automation and infrastructure as code.
-
-        Some of the tools and technologies that I have worked with
+        As a seasoned technology leader with over 15 years of experience in DevOps, cloud, and AI, I possess a deep understanding and expertise in DevOps culture and capabilities, cloud and AI. My successful track record includes working with multi-cloud and hybrid cloud setups, and I have a strong focus on exploring diverse use cases for Generative AI.
+        Throughout my career, I have excelled in various roles, including UI developer, platform engineer, and performance engineer. My DevOps journey began with a microservices SaaS offering on Oracle Cloud, and I am passionate about helping organizations transform into cloud-native and container models with full automation and infrastructure as code.
+        I am passionate about solving complex problems and getting organizations to transform to cloud native ,container models and AI with full automation and infrastructure as code.
 
         Scripting/Programming Perl ,java, Python, Bash
+        IBM WatsonX, Gen-AI , watsonx.data
         App supported languages Python, Java, Javascript
         Cloud Environments AWS, Azure, Google,OCI ,IBM cloud
         Containerization Docker, Docker-Compose, ECS, EKS,IKS,OpenShift, Kubernetes
@@ -80,20 +73,23 @@ education:
           - Bullet point
           - Bullet point  
 experiences:
-    - role: DevOps Specialist 
+    - role: Technical Enablement Lead 
       time: 2020 - Present
       company: IBM Bangalore
       details: |
-         
-          Working with Developer teams and leadership in IBM CIO org to engineer the devops capabilities into developer workflows. 
+            Working with Developer teams and leadership in IBM CIO org to engineer the Hybrid cloud, DevOps and AI capabilities into developer workflows.
 
-          Helping teams in writing secure software. Helping org to build centralized CICD , security ,quality tooling into the DevOps landscape.
+            Helping teams in writing secure software. Helping org to build centralized CICD , security ,quality tooling into the DevOps landscape.
 
-          Leadership coaching on building high performance teams across the org which has around 6000 apps and several hundred leaders.
+            Leadership coaching on building high performance teams across the org which has around 6000 apps and several hundred leaders.
 
-          As a Transformation specialist , have worked with teams on value based transformation, process change, setting up CI/CD pipelines, Kubernetes configurations, cloud native app migrations etc.
+            As a Transformation specialist , have worked with teams on value based transformation, process change, setting up CI/CD pipelines, Kubernetes configurations, cloud native app migrations etc.
 
-    - role: DevOps Manager
+            As an enthusiastic learner and a passionate advocate for AI-driven innovation, . I am working to contribute my skills and expertise to drive transformative solutions and make a positive impact in the rapidly evolving world of AI.
+
+            Have been working on building a AI community. Conducted workshops for 200 plus IBMers inspiring and solving technical challenges to help them participate in org wide watson challenge
+                 
+- role: DevOps Manager
       time: 2019 - 2020
       company: ThoughtFocus, Bangalore
       details: |
